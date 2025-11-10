@@ -21,9 +21,4 @@ A professional academic website showcasing research, publications, and achieveme
 \- SEO Friendly: Structured data and meta tags for better search visibility
 
 
-
-\##  File Structure
-
-
-
-
+\##  
