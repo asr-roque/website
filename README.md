@@ -10,19 +10,20 @@ A professional academic website showcasing research, publications, and achieveme
 
 
 
-\- \*\*Responsive Design\*\*: Optimized for all devices and screen sizes
+\- Responsive Design: Optimized for all devices and screen sizes
 
-\- \*\*Modern UI\*\*: Clean, professional design with smooth animations
+\- Modern UI: Clean, professional design with smooth animations
 
-\- \*\*Performance Optimized\*\*: Fast loading with optimized assets
+\- Performance Optimized: Fast loading with optimized assets
 
-\- \*\*Accessibility\*\*: WCAG compliant with keyboard navigation support
+\- Accessibility: WCAG compliant with keyboard navigation support
 
-\- \*\*SEO Friendly\*\*: Structured data and meta tags for better search visibility
+\- SEO Friendly: Structured data and meta tags for better search visibility
 
 
 
 \##  File Structure
+
 
 
 
